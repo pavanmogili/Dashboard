@@ -1,0 +1,41 @@
+Sentence,Notes,Position,Sequence,Serotype,Sub_Function
+"A˚ distance between AAVR-Lys93 Nz and AAV2-Lys556 in the PKD1-2 complex (that was not
+cross-linked in the EM sample) is consistent with an MS experiment in which AAVDJ was cross-linked
+using CBDPS (14 A˚ spacer) to an AAVR construct missing only the transmembrane and C-terminal
+tail (Table 1).",AAV2-Lys556,93,Lys,AAV2,AAVR
+"A˚ distance between AAVR-Lys93 Nz and AAV2-Lys556 in the PKD1-2 complex (that was not
+cross-linked in the EM sample) is consistent with an MS experiment in which AAVDJ was cross-linked
+using CBDPS (14 A˚ spacer) to an AAVR construct missing only the transmembrane and C-terminal
+tail (Table 1).",AAV2-Lys556,556,Lys,AAV2,AAVR
+"Arg585 and
+Arg587 (AAV2 numbering) interact electrostatically either with glycan sulfates or AAVR Asp459.",AAV2,585,Arg,AAV2,AAVR
+"Arg585 and
+Arg587 (AAV2 numbering) interact electrostatically either with glycan sulfates or AAVR Asp459.",AAV2,587,Arg,AAV2,AAVR
+"Arg585 and
+Arg587 (AAV2 numbering) interact electrostatically either with glycan sulfates or AAVR Asp459.",AAV2,459,Asp,AAV2,AAVR
+"There
+is some overlap between AAVR and AAV1/6-bound sialic acid (Huang et al., 2016), but none with
+sucrose octasulfate bound to AAV3B at Arg594 (Lerch and Chapman, 2012).",AAV1/6-bound,594,Arg,AAV1,AAVR
+"There
+is some overlap between AAVR and AAV1/6-bound sialic acid (Huang et al., 2016), but none with
+sucrose octasulfate bound to AAV3B at Arg594 (Lerch and Chapman, 2012).",AAV1/6-bound,594,Arg,AAV1,sialic
+"There
+is some overlap between AAVR and AAV1/6-bound sialic acid (Huang et al., 2016), but none with
+sucrose octasulfate bound to AAV3B at Arg594 (Lerch and Chapman, 2012).",AAV3B,594,Arg,AAV3,AAVR
+"There
+is some overlap between AAVR and AAV1/6-bound sialic acid (Huang et al., 2016), but none with
+sucrose octasulfate bound to AAV3B at Arg594 (Lerch and Chapman, 2012).",AAV3B,594,Arg,AAV3,sialic
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,556,K,AAV2,AAVR
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,93,K,AAV2,AAVR
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,490,K,AAV2,AAVR
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,88,K,AAV2,AAVR
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,560,T,AAV2,AAVR
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,450,T,AAV2,AAVR
+"Fragmentation spectra of peptides cross-linked at (A) AAVDJ K556:AAVR K93, (B) AAV2
+K490:AAVR K88, (C) AAV2 T560:AAVR K88, (D) AAV2 K556:AAVR K27, (E) AAV2 T450:AAVR K88, and (F) AAV2 K556:AAVR K286.",AAV2,286,K,AAV2,AAVR
